@@ -9,7 +9,7 @@ import Home from './pages/Home';
 import Amazone from './pages/Amazone';
 import Congo from './pages/Congo';
 import Borneo from './pages/Borneo';
-import Antwoorden from './pages/Antwoorden';
+import Codeslot from './pages/Codeslot';
 
 export default function App() {
   return (
@@ -20,7 +20,7 @@ export default function App() {
           <Route path="amazone" element={<Amazone />} />
           <Route path="congo" element={<Congo />} />
           <Route path="borneo" element={<Borneo />} />
-          <Route path="antwoorden" element={<Antwoorden />} />
+          <Route path="codeslot" element={<Codeslot />} />
         </Route>
       </Routes>
     </BrowserRouter>

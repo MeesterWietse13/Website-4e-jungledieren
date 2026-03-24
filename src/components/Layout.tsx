@@ -1,5 +1,5 @@
 import { Link, Outlet, useLocation } from 'react-router-dom';
-import { Leaf, Map, HelpCircle, Home } from 'lucide-react';
+import { Leaf, Map, Home, Lock } from 'lucide-react';
 import { motion } from 'motion/react';
 
 export default function Layout() {
@@ -10,7 +10,7 @@ export default function Layout() {
     { path: '/amazone', label: 'Amazonewoud', icon: Leaf, color: 'bg-emerald-600' },
     { path: '/congo', label: 'Congoregenwoud', icon: Leaf, color: 'bg-teal-600' },
     { path: '/borneo', label: 'Borneo', icon: Leaf, color: 'bg-lime-600' },
-    { path: '/antwoorden', label: 'Antwoorden', icon: HelpCircle, color: 'bg-amber-500' },
+    { path: '/codeslot', label: 'Codeslot', icon: Lock, color: 'bg-indigo-600' },
   ];
 
   return (
