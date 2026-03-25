@@ -67,11 +67,11 @@ export default function Home() {
                 <div className="bg-white/60 rounded-xl p-3 mt-auto">
                   <h4 className="font-bold text-teal-800 text-sm mb-1">Dieren in dit woud:</h4>
                   <ul className="text-sm text-teal-900 space-y-1">
-                    <li>• De Gorilla</li>
-                    <li>• De Okapi</li>
-                    <li>• De Grijze Roodstaartpapegaai</li>
-                    <li>• De Afrikaanse Luipaard</li>
+                    <li>• De Berggorilla</li>
+                    <li>• De Afrikaanse Grijze Papegaai</li>
                     <li>• De Goliathkikker</li>
+                    <li>• De Driehoornkameleon</li>
+                    <li>• De Goliathkever</li>
                   </ul>
                 </div>
               </div>
@@ -87,9 +87,9 @@ export default function Home() {
                   <ul className="text-sm text-lime-900 space-y-1">
                     <li>• De Orang-oetan</li>
                     <li>• De Neushoornvogel</li>
-                    <li>• De Vliegende Draak</li>
+                    <li>• De Vliegende Draak (Draco)</li>
                     <li>• Het Wandelend Blad</li>
-                    <li>• De Vogelspin</li>
+                    <li>• De Borneo Vogelspinachtigen</li>
                   </ul>
                 </div>
               </div>

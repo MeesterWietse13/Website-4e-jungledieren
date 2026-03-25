@@ -4,44 +4,44 @@ export default function Borneo() {
   const animals = [
     {
       name: 'De Orang-oetan',
-      scientificName: 'Pongo pygmaeus (Borneose orang-oetan)',
+      scientificName: 'Pongo pygmaeus (Borneo)',
       icon: '🦧',
       animalClass: 'Zoogdier',
       classIcon: '🐾',
-      description: "De orang-oetan is de grootste boomdiersoort ter wereld. Zijn naam betekent 'mens van het bos' in het Maleis. Hij heeft lange, sterke armen (de spanwijdte kan wel 2 meter zijn!) en een opvallende roodbruine vacht. Volwassen mannetjes krijgen grote, vlezige wangplaten.",
-      where: 'Hoog in de bomen van het regenwoud op Borneo. De orang-oetan is het grootste dier dat bijna zijn hele leven in bomen doorbrengt. Elke avond bouwt hij hoog in de kruinen een nieuw, comfortabel slaapnest van bladeren en takken.',
-      whatEats: 'Vooral fruit (ze kennen meer dan 400 soorten eetbare planten!), maar ook bladeren, schors, insecten en soms honing. Ze zijn heel belangrijk voor het bos omdat ze zaden verspreiden via hun poep.',
-      whyClass: "De orang-oetan heeft haar, is warmbloedig, en moeders voeden hun baby's jarenlang met melk. Een jong blijft tot wel 8 jaar bij zijn moeder — dat is de langste jeugd van alle dieren op aarde (na de mens)!",
-      funFact: 'Orang-oetans zijn super slim en gebruiken gereedschap! Ze gebruiken stokjes om termieten uit een boom te peuteren of om honing uit een nest te halen, en ze gebruiken grote bladeren als paraplu als het regent.',
-      didYouKnow: "Orang-oetans kunnen niet zwemmen! Ze zijn bang voor diep water en zullen altijd proberen via de bomen een rivier over te steken.",
+      description: "De orang-oetan is de grootste boomdiersoort ter wereld. Zijn naam betekent 'mens van het bos' in het Maleis. Hij heeft lange, superkrachtige armen (de spanwijdte kan 2,4 meter zijn — breder dan hij lang is!) en roodbruine, ruige vacht. Volwassen mannetjes hebben brede wangkussens.",
+      where: 'Hoog in de bomen! De orang-oetan is het grootste dier dat bijna zijn hele leven in bomen doorbrengt. Elke avond bouwt hij een comfortabel slaapnest van bladeren en takken, soms met een \'dakje\' tegen de regen.',
+      whatEats: 'Vooral fruit (meer dan 400 soorten!), maar ook bladeren, schors, honing, insecten en soms vogeleieren. Ze onthouden precies welke bomen wanneer vruchten dragen — als een levende kalender!',
+      whyClass: "De orang-oetan heeft haar, is warmbloedig, en moeders voeden hun baby's jarenlang met melk. Een jong blijft tot wel 8 jaar bij zijn moeder — dat is het langst van alle dieren behalve de mens!",
+      funFact: "Orang-oetans gebruiken gereedschap! Ze peuteren met stokken insecten uit boomgaatjes, gebruiken grote bladeren als paraplu, en maken van takken 'handschoenen' om stekelige vruchten vast te pakken.",
+      didYouKnow: "Orang-oetans delen 97% van hun DNA met mensen. Ze kunnen zelfs leren communiceren met gebarentaal!",
       colorTheme: 'border-orange-600'
     },
     {
       name: 'De Neushoornvogel',
-      scientificName: 'Buceros rhinoceros (Gewone neushoornvogel)',
+      scientificName: 'Buceros rhinoceros',
       icon: '🦜',
       animalClass: 'Vogel',
       classIcon: '🦜',
-      description: "De neushoornvogel is een grote vogel met een enorme, kleurrijke snavel en een opvallende 'helm' (casque) bovenop. Die helm is hol en werkt als een soort klankkast om hun roep te versterken. Hun vleugelslag is zo krachtig dat het klinkt als een stoomlocomotief die voorbijvliegt!",
-      where: 'In de hoge boomkruinen van het regenwoud. Ze hebben grote, oude bomen nodig met natuurlijke holtes om in te nestelen.',
-      whatEats: 'Vooral vruchten (met name wilde vijgen), maar ook insecten, kleine hagedissen en boomkikkers.',
-      whyClass: 'De neushoornvogel heeft veren, een snavel, legt eieren en is warmbloedig.',
-      funFact: 'Als het vrouwtje gaat broeden, kruipt ze in een holle boom. Het mannetje metselt de opening dicht met modder en poep, zodat alleen een smal gleufje overblijft. Zo is ze veilig voor roofdieren (zoals slangen en apen).',
-      didYouKnow: "Het mannetje moet soms wel 3 maanden lang elke dag voedsel brengen naar het ingemetselde vrouwtje en haar kuikens. Als het mannetje iets overkomt, heeft het gezin een groot probleem.",
+      description: "De neushoornvogel is een grote, indrukwekkende vogel met een enorme, kleurrijke snavel en een opvallende 'helm' (casque) bovenop. Hij kan tot 1 meter lang worden. Zijn vleugelslag is zo krachtig dat je het geluid van ver kunt horen — het klinkt als een stoomlocomotief!",
+      where: 'In de hoge boomkruinen van het regenwoud. De vrouwtjes broeden in holle bomen en metselen de opening dicht met modder en eten, zodat alleen een smal gleufje overblijft waardoor het mannetje voedsel aangeeft.',
+      whatEats: 'Vooral vruchten (met name vijgen!), maar ook insecten, kleine hagedissen en slakken. Hij gooit het voedsel omhoog en vangt het op in zijn snavel.',
+      whyClass: 'De neushoornvogel heeft veren, een (hele grote!) snavel, legt eieren en is warmbloedig.',
+      funFact: 'Het vrouwtje zit soms 3 tot 4 maanden opgesloten in de holle boom tijdens het broeden! Het mannetje brengt in die tijd trouw honderden keren voedsel aan.',
+      didYouKnow: "Neushoornvogels zijn belangrijke 'tuiniers' van het bos. Ze eten vruchten en poepen de zaden verderop uit. Zo helpen ze het bos groeien en verspreiden ze bomen over grote afstanden.",
       colorTheme: 'border-yellow-500'
     },
     {
-      name: 'De Vliegende Draak',
+      name: 'De Vliegende Draak (Draco)',
       scientificName: 'Draco volans',
       icon: '🦎',
       animalClass: 'Reptiel',
       classIcon: '🦎',
-      description: "De vliegende draak (of Draco) is een kleine hagedis (ongeveer 20 centimeter lang) die kan 'vliegen'! Nou ja, eigenlijk zweeft hij. Hij heeft verlengde ribben met een huidflap ertussen (het patagium) die hij kan uitspreiden als vleugels.",
-      where: 'In de bomen van het tropisch regenwoud op Borneo. Hij zweeft van boomstam naar boomstam en komt bijna nooit op de grond, behalve het vrouwtje als ze eitjes gaat leggen.',
-      whatEats: 'Vooral mieren en termieten. Hij zit stil op een boomstam en wacht tot er een lekker hapje voorbij komt lopen.',
-      whyClass: 'De vliegende draak heeft schubben, is koudbloedig en legt eitjes in een kuiltje in de grond.',
-      funFact: "De vliegende draak kan wel 8 meter ver zweven! Hij gebruikt zijn 'vleugels' ook om te communiceren: mannetjes spreiden hun felgekleurde huidflappen uit om vrouwtjes aan te trekken of rivalen weg te jagen.",
-      didYouKnow: "Tijdens het zweven gebruikt de hagedis zijn lange, dunne staart om te sturen, net als het roer van een vliegtuig.",
+      description: "De vliegende draak is een kleine hagedis (ongeveer 20 centimeter) die kan 'vliegen' — nou ja, eigenlijk zweeft hij. Hij heeft verlengde ribben aan de zijkant van zijn lichaam met een dunne huidflap ertussen. Die kan hij uitspreiden als vleugels. Opgevouwen zie je er niets van!",
+      where: 'In de bomen van het tropisch regenwoud op Borneo en omliggende eilanden. Hij zweeft van boom tot boom en landt bijna nooit op de grond.',
+      whatEats: 'Vooral mieren en termieten. Hij wacht geduldig op een boomstam en grijpt voorbijlopende insecten met zijn snelle tongetje.',
+      whyClass: 'De vliegende draak heeft schubben, is koudbloedig en legt eitjes in de grond — het enige moment dat het vrouwtje naar beneden komt!',
+      funFact: "De vliegende draak kan tot 8 meter ver zweven van boom tot boom en verliest daarbij maar heel weinig hoogte. Hij kan zelfs bochten nemen in de lucht!",
+      didYouKnow: "Mannetjes spreiden hun felgekleurde huidflappen uit om indruk te maken op vrouwtjes. Elke soort heeft een andere kleur: geel, oranje, rood of blauw.",
       colorTheme: 'border-lime-500'
     },
     {
@@ -50,26 +50,26 @@ export default function Borneo() {
       icon: '🍃',
       animalClass: 'Insect',
       classIcon: '🦋',
-      description: "Het wandelend blad is de absolute kampioen camouflage van het insectenrijk. Dit insect ziet er precies uit als een groen (of soms bruin) blad — compleet met 'nerven' en zelfs nep-vraatplekjes of bruine randjes! Roofdieren lopen er gewoon voorbij zonder het te zien.",
-      where: "Tussen het bladerdek van het regenwoud. Hij zit overdag muisstil en beweegt zich vooral 's nachts om te eten.",
-      whatEats: 'Bladeren van verschillende bomen en struiken. Soms eet hij na een vervelling zijn eigen afgeworpen huid op om voedingsstoffen te recyclen!',
-      whyClass: 'Het wandelend blad heeft zes poten, drie lichaamsdelen (kop, borststuk, achterlijf) en twee voelsprieten. Hij ondergaat een onvolledige metamorfose: de baby\'s (nimfen) lijken al op kleine volwassenen.',
-      funFact: 'Als het wandelend blad loopt, wiegt hij zachtjes heen en weer. Zo lijkt hij precies op een blad dat ritselt in de wind. Zelfs zijn eitjes zien eruit als plantenzaadjes!',
-      didYouKnow: "Vrouwelijke wandelende bladeren hebben mannetjes niet altijd nodig om zich voort te planten. Als er geen mannetjes zijn, leggen ze onbevruchte eitjes waar alleen maar nieuwe vrouwtjes uitkomen (dit heet parthenogenese).",
+      description: "Het wandelend blad is de kampioen camouflage van het insectenrijk. Dit insect ziet er precies uit als een groen blad — compleet met 'nerven', onregelmatige randen en zelfs nep-vraatplekjes en bruine 'rotte' randjes! Roofdieren lopen er gewoon voorbij.",
+      where: "Tussen het bladerdek van het regenwoud op Borneo en andere Zuidoost-Aziatische wouden. Hij zit overdag doodstil op een tak en beweegt zich alleen 's nachts als het veiliger is.",
+      whatEats: 'Bladeren van verschillende bomen en planten. Hij eet soms ook zijn eigen afgeworpen huid na een vervelling! Niets gaat verloren.',
+      whyClass: 'Het wandelend blad heeft zes poten, drie lichaamsdelen en ondergaat een onvolledige gedaanteverwisseling (van ei naar nimf naar volwassene, zonder popstadium).',
+      funFact: 'Als het wandelend blad loopt, wiegt hij zachtjes heen en weer, precies zoals een blad in de wind. Zelfs zijn eitjes zien eruit als plantenzaadjes!',
+      didYouKnow: "Het wandelend blad is al minstens 47 miljoen jaar oud. Er zijn fossielen gevonden die bijna exact hetzelfde eruitzien als de huidige soorten!",
       colorTheme: 'border-green-500'
     },
     {
-      name: 'De Vogelspin',
+      name: 'De Borneo Vogelspinachtigen (tarantula)',
       scientificName: 'Theraphosidae (familie)',
       icon: '🕷️',
       animalClass: 'Spinachtige',
       classIcon: '🕷️',
-      description: "Op Borneo leven verschillende soorten grote vogelspinnen (tarantula's). Sommige zijn zo groot als een handpalm en heel harig! Ze zien er angstaanjagend uit, maar voor mensen zijn ze meestal niet gevaarlijk. Hun beet doet pijn (vergelijkbaar met een wespensteek), maar is zelden dodelijk.",
-      where: 'Sommige soorten graven holen in de bosbodem, andere leven hoog in holle bomen of tussen boomschors. Ze spinnen geen web om prooien in te vangen, maar gebruiken zijde om hun hol te bekleden en als struikeldraadjes.',
-      whatEats: "Insecten, kleine hagedissen, kikkers en heel soms een klein vogeltje of muis (vandaar de naam vogelspin!). Ze jagen 's nachts vanuit een hinderlaag.",
-      whyClass: 'Spinachtigen zijn géén insecten! Ze hebben 8 poten (insecten hebben er 6), geen vleugels, geen voelsprieten, en hun lichaam bestaat uit twee delen (kopborststuk en achterlijf) in plaats van drie.',
-      funFact: 'Vogelspinnen kunnen niet goed zien. Ze jagen door trillingen te voelen. Als een prooi over hun zijden struikeldraadjes loopt, voelt de spin dat met de haartjes op haar poten en schiet ze razendsnel naar buiten!',
-      didYouKnow: "Als een vogelspin zich bedreigd voelt, kan ze met haar achterpoten brandharen van haar achterlijf wrijven en in de lucht gooien. Die haartjes veroorzaken vreselijke jeuk in de ogen en neus van een roofdier!",
+      description: "Op Borneo leven verschillende soorten tarantula's (vogelspinnen). Sommige zijn zo groot als een uitgespreide hand! Ze zien er angstaanjagend uit met hun dikke, harige poten, maar voor mensen zijn ze niet echt gevaarlijk. Hun beet doet pijn, maar is vergelijkbaar met een wespensteek.",
+      where: 'Sommige soorten graven holen in de bosbodem, andere leven in holle bomen of tussen boomschors. Ze spinnen een dunne laag zijde rond hun hol als \'alarmsysteem\': als een prooidier over het web loopt, voelt de spin de trillingen!',
+      whatEats: "Insecten, krekels, kleine hagedissen, kikkers en soms zelfs kleine vogels en muizen (vandaar de naam 'vogelspinnen'!). Ze bespuiten hun prooi met verteringssappen en zuigen het vloeibare voedsel op.",
+      whyClass: 'Ze hebben 8 poten (insecten hebben er 6), geen vleugels, en hun lichaam bestaat uit twee delen (kop-borststuk en achterlijf) in plaats van drie. Ze hebben ook gifklauwen (cheliceren) vooraan.',
+      funFact: 'Sommige tarantula\'s kunnen hun irriterende buikharen afschieten als verdediging! Deze haartjes veroorzaken hevige jeuk bij aanvallers. De spin wordt er kaal van op de buik!',
+      didYouKnow: "Vrouwelijke tarantula's kunnen 15 tot 25 jaar oud worden — veel ouder dan de meeste huisdieren!",
       colorTheme: 'border-stone-600'
     }
   ];
@@ -81,11 +81,10 @@ export default function Borneo() {
         <p className="text-xl text-lime-100 font-medium">Zuidoost-Azië (Maleisië, Indonesië, Brunei)</p>
         <div className="mt-6 bg-lime-900/50 p-6 rounded-2xl text-left">
           <p className="text-lg leading-relaxed mb-4">
-            Het regenwoud van Borneo is een van de oudste oerwouden ter wereld: het bestaat naar schatting al 130 miljoen jaar! Dat is ouder dan het Amazonewoud. 
-            Borneo is het op twee na grootste eiland ter wereld.
+            Het regenwoud van Borneo is een van de oudste oerwouden ter wereld: het bestaat al meer dan 130 miljoen jaar! Borneo is het derde grootste eiland ter wereld. In dit oerwoud groeit de grootste bloem ter wereld (de Rafflesia, tot 1 meter breed!) en leven dieren die nergens anders voorkomen.
           </p>
           <p className="text-lg leading-relaxed">
-            In dit oerwoud groeien de grootste bloemen ter wereld (de Rafflesia, die ruikt naar rottend vlees!) en leven dieren die nergens anders op aarde voorkomen. Helaas wordt dit prachtige woud zwaar bedreigd door houtkap en de aanleg van palmolieplantages.
+            Helaas verdwijnt het regenwoud van Borneo in hoog tempo. Grote stukken bos worden gekapt om er palmolieplantages aan te leggen. Palmolie zit in heel veel producten: koekjes, shampoo, chips… Kijk maar eens op de verpakking!
           </p>
         </div>
       </div>
