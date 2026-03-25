@@ -12,7 +12,7 @@ export default function Amazone() {
       where: 'De jaguar leeft het liefst op de bosbodem, vaak in de buurt van rivieren en moerassen. Anders dan de meeste katten houdt hij enorm van water en is hij een uitstekende zwemmer.',
       whatEats: 'Hij is een toproofdier (hij staat bovenaan de voedselketen). Hij eet herten, tapirs, vissen, schildpadden en zelfs kaaimannen (een soort krokodillen). Zijn kaken zijn zó sterk dat hij door het schild van een schildpad kan bijten!',
       whyClass: 'De jaguar heeft vacht, is warmbloedig en de moeder geeft melk aan haar welpen. De welpen worden blind geboren en blijven ongeveer 2 jaar bij hun moeder om te leren jagen.',
-      funFact: "De naam 'jaguar' komt van het inheemse woord 'yaguar', wat betekent: 'hij die doodt met één sprong'.",
+      funFact: "De naam 'jaguar' komt van het inheemse woord 'yaguar', wat betekent: 'hij die doodt met één sprong'. De jaguar kan vanuit stilstand wel 3 meter hoog springen!",
       didYouKnow: "Er bestaan ook volledig zwarte jaguars! Die noemen we 'zwarte panters'. Als je goed kijkt in fel zonlicht, zie je dat ze toch rozetten hebben, maar dan donkerzwart op een zwarte vacht.",
       colorTheme: 'border-orange-500'
     },
