@@ -42,26 +42,56 @@ export default function Home() {
           
           <div className="grid md:grid-cols-3 gap-6 my-8">
             <Link to="/amazone" className="group">
-              <div className="bg-emerald-100 rounded-2xl p-6 h-full border-2 border-emerald-300 hover:border-emerald-500 hover:shadow-lg transition-all transform hover:-translate-y-1">
+              <div className="bg-emerald-100 rounded-2xl p-6 h-full border-2 border-emerald-300 hover:border-emerald-500 hover:shadow-lg transition-all transform hover:-translate-y-1 flex flex-col">
                 <div className="text-4xl mb-3">🦜</div>
                 <h3 className="font-display font-bold text-xl text-emerald-800 mb-2">1. Het Amazonewoud</h3>
-                <p className="text-emerald-700 text-sm">(Zuid-Amerika) — het grootste oerwoud ter wereld!</p>
+                <p className="text-emerald-700 text-sm mb-4">(Zuid-Amerika) — het grootste oerwoud ter wereld!</p>
+                <div className="bg-white/60 rounded-xl p-3 mt-auto">
+                  <h4 className="font-bold text-emerald-800 text-sm mb-1">Dieren in dit woud:</h4>
+                  <ul className="text-sm text-emerald-900 space-y-1">
+                    <li>• De Jaguar</li>
+                    <li>• De Ara (papegaai)</li>
+                    <li>• De Pijlgifkikker</li>
+                    <li>• De Groene Anaconda</li>
+                    <li>• De Blauwe Morpho-vlinder</li>
+                  </ul>
+                </div>
               </div>
             </Link>
             
             <Link to="/congo" className="group">
-              <div className="bg-teal-100 rounded-2xl p-6 h-full border-2 border-teal-300 hover:border-teal-500 hover:shadow-lg transition-all transform hover:-translate-y-1">
+              <div className="bg-teal-100 rounded-2xl p-6 h-full border-2 border-teal-300 hover:border-teal-500 hover:shadow-lg transition-all transform hover:-translate-y-1 flex flex-col">
                 <div className="text-4xl mb-3">🦍</div>
                 <h3 className="font-display font-bold text-xl text-teal-800 mb-2">2. Het Congoregenwoud</h3>
-                <p className="text-teal-700 text-sm">(Afrika) — het hart van het Afrikaanse continent.</p>
+                <p className="text-teal-700 text-sm mb-4">(Afrika) — het hart van het Afrikaanse continent.</p>
+                <div className="bg-white/60 rounded-xl p-3 mt-auto">
+                  <h4 className="font-bold text-teal-800 text-sm mb-1">Dieren in dit woud:</h4>
+                  <ul className="text-sm text-teal-900 space-y-1">
+                    <li>• De Gorilla</li>
+                    <li>• De Okapi</li>
+                    <li>• De Grijze Roodstaartpapegaai</li>
+                    <li>• De Afrikaanse Luipaard</li>
+                    <li>• De Goliathkikker</li>
+                  </ul>
+                </div>
               </div>
             </Link>
             
             <Link to="/borneo" className="group">
-              <div className="bg-lime-100 rounded-2xl p-6 h-full border-2 border-lime-300 hover:border-lime-500 hover:shadow-lg transition-all transform hover:-translate-y-1">
+              <div className="bg-lime-100 rounded-2xl p-6 h-full border-2 border-lime-300 hover:border-lime-500 hover:shadow-lg transition-all transform hover:-translate-y-1 flex flex-col">
                 <div className="text-4xl mb-3">🦧</div>
                 <h3 className="font-display font-bold text-xl text-lime-800 mb-2">3. Het regenwoud van Borneo</h3>
-                <p className="text-lime-700 text-sm">(Azië) — een van de oudste oerwouden op aarde!</p>
+                <p className="text-lime-700 text-sm mb-4">(Azië) — een van de oudste oerwouden op aarde!</p>
+                <div className="bg-white/60 rounded-xl p-3 mt-auto">
+                  <h4 className="font-bold text-lime-800 text-sm mb-1">Dieren in dit woud:</h4>
+                  <ul className="text-sm text-lime-900 space-y-1">
+                    <li>• De Orang-oetan</li>
+                    <li>• De Neushoornvogel</li>
+                    <li>• De Vliegende Draak</li>
+                    <li>• Het Wandelend Blad</li>
+                    <li>• De Vogelspin</li>
+                  </ul>
+                </div>
               </div>
             </Link>
           </div>
